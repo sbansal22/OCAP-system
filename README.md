@@ -13,8 +13,11 @@ Electrical system documentation
 
 ![Port List](https://github.com/sbansal22/OCAP-system/blob/main/docs/jetson-nano-ports.png)
 
+![Power Tree](https://github.com/sbansal22/OCAP-system/blob/main/docs/Jetson-nano-power-tree.JPG)
+
 [Access the datasheet here](https://github.com/sbansal22/OCAP-system/blob/main/docs/NVIDIA_JetsonNano_DataSheet_v0.7.pdf)
 
 [Access the schematics here](https://github.com/sbansal22/OCAP-system/blob/main/docs/Jetson_Nano_Carrier_Board_OrCAD_Schematics.pdf)
 
-![Power Tree](https://github.com/sbansal22/OCAP-system/blob/main/docs/Jetson-nano-power-tree.JPG)
+* [SoCKit Development Kit](https://www.arrow.com/en/products/sockit/arrow-development-tools)
+
