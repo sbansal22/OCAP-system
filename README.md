@@ -33,4 +33,8 @@ Electrical system documentation
 
 * [XBee-PRO® 900HP DigiMesh® Kit](https://www.digikey.com/en/products/detail/digi/XKB9-DMT-UHP/5824098)
 
+[Access the datasheet here](https://github.com/sbansal22/OCAP-system/blob/main/docs/90001496.pdf)
+
 * [SparkFun XBee Shield](https://www.sparkfun.com/products/12847)
+
+[Access the schematic here](https://github.com/sbansal22/OCAP-system/blob/main/docs/Xbee_shield_v15.pdf)
