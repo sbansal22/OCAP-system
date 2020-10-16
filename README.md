@@ -19,5 +19,10 @@ Electrical system documentation
 
 [Access the schematics here](https://github.com/sbansal22/OCAP-system/blob/main/docs/Jetson_Nano_Carrier_Board_OrCAD_Schematics.pdf)
 
-* [SoCKit Development Kit](https://www.arrow.com/en/products/sockit/arrow-development-tools)
+* [SoCKit Development Kit - FPGA](https://www.arrow.com/en/products/sockit/arrow-development-tools)
 
+![Port List (Front)](https://github.com/sbansal22/OCAP-system/blob/main/docs/sockit-ports.JPG)
+
+![Port List (Front)](https://github.com/sbansal22/OCAP-system/blob/main/docs/sockit-ports-2.JPG)
+
+[Access the datasheet here](https://github.com/sbansal22/OCAP-system/blob/main/docs/sockit_user_manual.pdf)
