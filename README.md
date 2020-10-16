@@ -2,6 +2,6 @@
 Electrical system documentation
 
 #### Block Diagram
-![](docs/Master Block Diagram.JPG)
+![Master Block Diagram](https://github.com/sbansal22/OCAP-system/blob/main/docs/Master%20Block%20Diagram.JPG)
 
 #### Bill of Materials
