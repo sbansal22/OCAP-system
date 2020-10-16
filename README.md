@@ -13,3 +13,4 @@ Electrical system documentation
 
 ![Port List](https://github.com/sbansal22/OCAP-system/blob/main/docs/jetson-nano-ports.png)
 
+[Access the datasheet here](https://github.com/sbansal22/OCAP-system/blob/main/docs/NVIDIA_JetsonNano_DataSheet_v0.7.pdf)
