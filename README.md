@@ -26,3 +26,11 @@ Electrical system documentation
 ![Port List (Front)](https://github.com/sbansal22/OCAP-system/blob/main/docs/sockit-ports-2.JPG)
 
 [Access the datasheet here](https://github.com/sbansal22/OCAP-system/blob/main/docs/sockit_user_manual.pdf)
+
+* [Stereo Camera for Raspberry Pi](https://www.arducam.com/product/b0195-synchronized-stereo-camera-hat-raspberry-pi/)
+
+* [Jet Drive](https://www.harbormodels.com/bowthrusters.html)
+
+* [XBee-PRO® 900HP DigiMesh® Kit](https://www.digikey.com/en/products/detail/digi/XKB9-DMT-UHP/5824098)
+
+* [SparkFun XBee Shield](https://www.sparkfun.com/products/12847)
