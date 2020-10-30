@@ -6,6 +6,8 @@ Electrical system documentation
 
 ### Master Schematic
 
+![Master Schematic](https://github.com/sbansal22/OCAP-system/blob/main/docs/Rev1.PNG)
+
 ### Bill of Materials
 * [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/dlc/jetson-nano-system-module-datasheet)
 
