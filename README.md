@@ -40,3 +40,5 @@ Electrical system documentation
 * [SparkFun XBee Shield](https://www.sparkfun.com/products/12847)
 
 [Access the schematic here](https://github.com/sbansal22/OCAP-system/blob/main/docs/Xbee_shield_v15.pdf)
+
+[Access the electrical specification sheet here](https://docs.google.com/spreadsheets/d/1iqbWANrZ3m2odWDil8Ejh1CWRLres_iSIGSQVzHmEjk/edit?usp=sharing)
